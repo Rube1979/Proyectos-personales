@@ -1,0 +1,3 @@
+Tema 1: Repositorios Git
+En este tema iremos aprendiendo el funcionamiento de git y de sus comandos
+para poder crear un repositorio.
